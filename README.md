@@ -1,1 +1,1 @@
-# flight-fare-prediction
+# Flight Fare Prediction
